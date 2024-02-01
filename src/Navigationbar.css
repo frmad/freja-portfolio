@@ -1,0 +1,21 @@
+.top-navigation {
+    background-color: #333; /* Set the background color to your preference */
+    padding: 10px; /* Adjust the padding as needed */
+}
+
+.top-navigation ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+}
+
+.top-navigation li {
+    margin-right: 20px; /* Adjust the margin between navigation items */
+    color: white; /* Set the text color to your preference */
+    cursor: pointer;
+}
+
+.top-navigation li:hover {
+    text-decoration: underline; /* Add underline on hover if desired */
+}
