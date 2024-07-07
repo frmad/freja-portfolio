@@ -1,6 +1,9 @@
 .top-navigation {
-    background-color: #333; /* Set the background color to your preference */
-    padding: 10px; /* Adjust the padding as needed */
+    background-color: var(--darkgreen-color);
+    padding: 20px;
+    font-size: 24px; /* Increased font size */
+    z-index: 1000; /* Ensure it appears above other content */
+    position: relative;
 }
 
 .top-navigation ul {
@@ -8,14 +11,42 @@
     margin: 0;
     padding: 0;
     display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 100%;
 }
 
-.top-navigation li {
-    margin-right: 20px; /* Adjust the margin between navigation items */
-    color: white; /* Set the text color to your preference */
+.topnav-left {
+    margin-right: auto;
+    color: white;
+    font-family: "Century Gothic";
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.topnav-right {
+    display: flex;
+}
+
+.topnav-right li {
+    margin-left: 20px;
+}
+
+.topnav-right li:first-child {
+    margin-left: 0;
+}
+
+.topnav-right li a {
+    text-decoration: none;
+    color: white;
     cursor: pointer;
 }
 
-.top-navigation li:hover {
-    text-decoration: underline; /* Add underline on hover if desired */
+.topnav-right li a:hover {
+    text-decoration: underline;
+}
+
+.topnav-right li a:visited {
+    color: white;
 }
