@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/freja-portfolio/static/css/main.963a20f2.css",
-    "main.js": "/freja-portfolio/static/js/main.5e694526.js",
+    "main.js": "/freja-portfolio/static/js/main.bd84f01d.js",
     "static/js/787.72fd394c.chunk.js": "/freja-portfolio/static/js/787.72fd394c.chunk.js",
     "static/media/Health-HI-FI.png": "/freja-portfolio/static/media/Health-HI-FI.f0d3ab8c328a4b5a57c3.png",
     "static/media/Bachelor.png": "/freja-portfolio/static/media/Bachelor.87684e47fd005cf65edd.png",
@@ -13,11 +13,11 @@
     "static/media/mig.jpg": "/freja-portfolio/static/media/mig.6ef8588c9687d8b45cc2.jpg",
     "index.html": "/freja-portfolio/index.html",
     "main.963a20f2.css.map": "/freja-portfolio/static/css/main.963a20f2.css.map",
-    "main.5e694526.js.map": "/freja-portfolio/static/js/main.5e694526.js.map",
+    "main.bd84f01d.js.map": "/freja-portfolio/static/js/main.bd84f01d.js.map",
     "787.72fd394c.chunk.js.map": "/freja-portfolio/static/js/787.72fd394c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.963a20f2.css",
-    "static/js/main.5e694526.js"
+    "static/js/main.bd84f01d.js"
   ]
 }
