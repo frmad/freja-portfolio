@@ -1,16 +1,23 @@
 {
   "files": {
-    "main.css": "/freja-portfolio/static/css/main.0a9143d7.css",
-    "main.js": "/freja-portfolio/static/js/main.56ec66e3.js",
+    "main.css": "/freja-portfolio/static/css/main.963a20f2.css",
+    "main.js": "/freja-portfolio/static/js/main.5e694526.js",
     "static/js/787.72fd394c.chunk.js": "/freja-portfolio/static/js/787.72fd394c.chunk.js",
-    "static/media/logo.svg": "/freja-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/Health-HI-FI.png": "/freja-portfolio/static/media/Health-HI-FI.f0d3ab8c328a4b5a57c3.png",
+    "static/media/Bachelor.png": "/freja-portfolio/static/media/Bachelor.87684e47fd005cf65edd.png",
+    "static/media/Xpence-LO-FI.png": "/freja-portfolio/static/media/Xpence-LO-FI.a9cb11be5972c99805de.png",
+    "static/media/Vroom-LO-FI.png": "/freja-portfolio/static/media/Vroom-LO-FI.ac6f2a028cc2b612423d.png",
+    "static/media/Vroom-HI-FI.png": "/freja-portfolio/static/media/Vroom-HI-FI.a8b756ebcc5e213cb3e7.png",
+    "static/media/img.png": "/freja-portfolio/static/media/img.cfac5a10c71b64941966.png",
+    "static/media/CV24eng.pdf": "/freja-portfolio/static/media/CV24eng.0105dac06c4556d6fa8a.pdf",
+    "static/media/mig.jpg": "/freja-portfolio/static/media/mig.6ef8588c9687d8b45cc2.jpg",
     "index.html": "/freja-portfolio/index.html",
-    "main.0a9143d7.css.map": "/freja-portfolio/static/css/main.0a9143d7.css.map",
-    "main.56ec66e3.js.map": "/freja-portfolio/static/js/main.56ec66e3.js.map",
+    "main.963a20f2.css.map": "/freja-portfolio/static/css/main.963a20f2.css.map",
+    "main.5e694526.js.map": "/freja-portfolio/static/js/main.5e694526.js.map",
     "787.72fd394c.chunk.js.map": "/freja-portfolio/static/js/787.72fd394c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0a9143d7.css",
-    "static/js/main.56ec66e3.js"
+    "static/css/main.963a20f2.css",
+    "static/js/main.5e694526.js"
   ]
 }
