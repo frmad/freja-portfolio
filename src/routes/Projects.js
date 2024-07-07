@@ -1,8 +1,8 @@
 import React from 'react';
 import NavigationBar from "../Navigationbar";
-import FrontendProjects from "./FrontendProjects";
-import BackendProjects from "./BackendProjects";
-import "./Project.css";
+import FrontendProjects from "../Project/FrontendProjects";
+import BackendProjects from "../Project/BackendProjects";
+import "../Project/Project.css";
 
 function Projects() {
     return (

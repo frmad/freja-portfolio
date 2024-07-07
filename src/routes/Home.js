@@ -1,5 +1,5 @@
 import React from 'react';
-import './Home.css'
+import '../Home/Home.css'
 import migImage from '../mig.jpg';
 import NavigationBar from "../Navigationbar";
 import resume from '../CV/CV24eng.pdf';

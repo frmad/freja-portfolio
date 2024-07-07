@@ -1,6 +1,6 @@
 import React from 'react';
 import migImage from '../mig.jpg';
-import './About.css'
+import '../About/About.css'
 import NavigationBar from "../Navigationbar";
 function About() {
     return (
