@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/freja-portfolio/static/css/main.963a20f2.css",
-    "main.js": "/freja-portfolio/static/js/main.bd84f01d.js",
+    "main.js": "/freja-portfolio/static/js/main.37f3d84c.js",
     "static/js/787.72fd394c.chunk.js": "/freja-portfolio/static/js/787.72fd394c.chunk.js",
+    "static/media/sem3.pdf": "/freja-portfolio/static/media/sem3.67308cacc0d7d807c86f.pdf",
     "static/media/Health-HI-FI.png": "/freja-portfolio/static/media/Health-HI-FI.f0d3ab8c328a4b5a57c3.png",
     "static/media/Bachelor.png": "/freja-portfolio/static/media/Bachelor.87684e47fd005cf65edd.png",
     "static/media/Xpence-LO-FI.png": "/freja-portfolio/static/media/Xpence-LO-FI.a9cb11be5972c99805de.png",
@@ -13,11 +14,11 @@
     "static/media/mig.jpg": "/freja-portfolio/static/media/mig.6ef8588c9687d8b45cc2.jpg",
     "index.html": "/freja-portfolio/index.html",
     "main.963a20f2.css.map": "/freja-portfolio/static/css/main.963a20f2.css.map",
-    "main.bd84f01d.js.map": "/freja-portfolio/static/js/main.bd84f01d.js.map",
+    "main.37f3d84c.js.map": "/freja-portfolio/static/js/main.37f3d84c.js.map",
     "787.72fd394c.chunk.js.map": "/freja-portfolio/static/js/787.72fd394c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.963a20f2.css",
-    "static/js/main.bd84f01d.js"
+    "static/js/main.37f3d84c.js"
   ]
 }
